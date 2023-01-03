@@ -1,6 +1,6 @@
 # fetch.mjs (fetch-contract)
 
-Fetch the source code of a verified smart contract from etherscan.io by its address. This can help discover potential vulnerable contracts if used with Semgrep (e.g., https://github.com/Decurity/semgrep-smart-contracts).
+Fetch the source code of a verified smart contract from etherscan.io by its address. This can help discover potential vulnerable contracts if used with [Semgrep](https://github.com/Decurity/semgrep-smart-contracts).
 
 
 ## Usage
